@@ -136,11 +136,7 @@ def allocate_marketing_budget(total_budget, linear_model):
 
 ---
 
-### **License**
-
-This project is open-sourced. Please refer to the `LICENSE` file if provided.
-
 ### **Contact**
 
-**Pranjal Patil** – \[Your LinkedIn]
-Project Repository: \[GitHub Link Here]
+**Pranjal Patil** – \[(https://www.linkedin.com/in/pranjal-patil07/)]
+Project Repository: \[(https://github.com/pranjalpatil-73/AI-Driven-Sales-Forecasting-Marketing-Analysis-)]
